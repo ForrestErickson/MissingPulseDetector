@@ -9,7 +9,7 @@
  * Test garage door is Chamberlan 2017 WiFi MyQ model. 
  * License: Public Domain. This may kill you but is not guarenteed to do so.
  * 
- * Pulse from garage door is a falling narro pulse about 300 uS long every 6.6 mS.  
+ * Pulse from garage door is a falling narrow pulse about 300 uS long every 6.6 mS.  
  * 
  */
 
