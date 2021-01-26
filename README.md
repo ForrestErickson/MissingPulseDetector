@@ -26,3 +26,6 @@ PCB
 Wiring photograph  
 ![ESP32 to PCB ](Wiring.jpg)
 
+Oscilloscope waveforems of pulses. CH1 is at C3+ on schematic and CH2 is at J3 pin 1.  
+![Waveforms ](CH1J1pin11_CH2J3pin1.png)
+
